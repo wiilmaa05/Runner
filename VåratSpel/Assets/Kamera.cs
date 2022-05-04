@@ -17,7 +17,7 @@ public class Kamera : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         //För att kameran ska följa med objectet 
         transform.position = target.position + offset;
