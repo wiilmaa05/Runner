@@ -16,14 +16,19 @@ MonoBehaviour:
     m_Keys:
     - Assets/Gubben.cs
     - Assets/Gubben.cs.meta
+    - Assets/Kamera.cs
     - Assets/Scenes/Game.unity
     - Assets/Scenes/Game.unity.meta
     - Assets/Scenes/Spelyta.unity
     - Assets/Scenes/Spelyta.unity.meta
+    - Assets/Score.cs
+    - Assets/Score.cs.meta
+    - Assets/spelare.mat
+    - Assets/spelare.mat.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
     - 
-    m_Values: 000000000000000000
+    m_Values: 0000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

@@ -332,6 +332,7 @@
 "Assets/GameSettings.cs"
 "Assets/Gubben.cs"
 "Assets/Kamera.cs"
+"Assets/Score.cs"
 "Assets/Spelet.cs"
 "Assets/StartMeny.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

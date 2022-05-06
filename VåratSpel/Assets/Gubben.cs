@@ -11,7 +11,7 @@ public class Gubben : MonoBehaviour
 
     //Variablet för att player ska gå fram
     public Vector3 userDirection = Vector3.right;
-    public static int movespeed = 10;
+    public static int movespeed = 15;
 
     // Start is called before the first frame update
     void Start()
@@ -32,7 +32,7 @@ public class Gubben : MonoBehaviour
             transform.position += new Vector3(0, 0, speed) * Time.deltaTime;
         }
         // Hopp knappen för upp och ner
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey("w"))
         {
             transform.position += new Vector3(0, Jumb, 0) * Time.deltaTime;
         }

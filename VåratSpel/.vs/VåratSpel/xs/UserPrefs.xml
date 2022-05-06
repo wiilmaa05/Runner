@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{8404F7B2-9F92-2280-833F-10C70A1978E8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Gubben.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Test.cs">
     <Files>
-      <File FileName="Assets/Gubben.cs" Line="16" Column="34" />
+      <File FileName="Assets/Gubben.cs" Line="1" Column="1" />
       <File FileName="Assets/StartMeny.cs" Line="15" Column="6" />
-      <File FileName="Assets/GameSettings.cs" Line="1" Column="1" />
-      <File FileName="Assets/Spelet.cs" Line="11" Column="6" />
-      <File FileName="Assets/Kamera.cs" Line="24" Column="6" />
+      <File FileName="Assets/GameSettings.cs" />
+      <File FileName="Assets/Spelet.cs" />
+      <File FileName="Assets/Kamera.cs" />
+      <File FileName="Assets/Test.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VåratSpel" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Gubben.cs" selected="True" />
+              <Node name="Test.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7c426c54-ee41-4e19-8d6d-911aa8123c05" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="06fa6a79-1a14-40e1-9b96-07e241490a52" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
